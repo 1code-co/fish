@@ -40,6 +40,7 @@ In **Jekyll 3.3.0**, auto-regeneration doesn't work due to [our geeky fascinatio
 * Change Jekyll destination back to `_site_` (no longer non-standard `_html`)
 * More variables available from `include metadata`
 * Breadcrumb trail clickable, when destination files are defined in `meta.yml`'s web nav tree
+* Linux and Mac scripts updated
 * Minor fixes and improvements (including nav close button, TOC layout, default font, Prose config, gitignore)
 
 ### 0.6.3
