@@ -36,6 +36,7 @@ In **Jekyll 3.3.0**, auto-regeneration doesn't work due to [our geeky fascinatio
 * Add support for translations as subdirectories of `text`
 * Add MathJax output in PDF
 * Assume/force use of format-specific image-sets
+* Far more powerful `figure` include (and related styling)
 * Change Jekyll destination back to `_site_` (no longer non-standard `_html`)
 * More variables available from `include metadata`
 * Breadcrumb trail clickable, when destination files are defined in `meta.yml`'s web nav tree
