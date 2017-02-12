@@ -31,6 +31,16 @@ In **Jekyll 3.3.0**, auto-regeneration doesn't work due to [our geeky fascinatio
 
 ## Changelog
 
+### 0.7.0
+
+* Add support for translations as subdirectories of `text`
+* Add MathJax output in PDF
+* Assume/force use of format-specific image-sets
+* Change Jekyll destination back to `_site_` (no longer non-standard `_html`)
+* More variables available from `include metadata`
+* Breadcrumb trail clickable, when destination files are defined in `meta.yml`'s web nav tree
+* Minor fixes and improvements (including nav close button, TOC layout, default font, Prose config, gitignore)
+
 ### 0.6.3
 
 * Fix image-set bug in Windows batch file script
