@@ -40,8 +40,9 @@ In **Jekyll 3.3.0**, auto-regeneration doesn't work due to [our geeky fascinatio
 * Change Jekyll destination back to `_site_` (no longer non-standard `_html`)
 * More variables available from `include metadata`
 * Breadcrumb trail clickable, when destination files are defined in `meta.yml`'s web nav tree
-* Linux and Mac scripts updated
-* Minor fixes and improvements (including nav close button, TOC layout, default font, Prose config, gitignore)
+* Simpler, better way to [create book-cover files](https://github.com/electricbookworks/electric-book/pull/81)
+* Linux and Mac scripts fixed and updated
+* Minor fixes and improvements (including nav buttons, TOC layout, default font, Prose config, gitignore, output scripts)
 
 ### 0.6.3
 
