@@ -42,6 +42,7 @@ In **Jekyll 3.3.0**, auto-regeneration doesn't work due to [our geeky fascinatio
 * Breadcrumb trail clickable, when destination files are defined in `meta.yml`'s web nav tree
 * Simpler, better way to [create book-cover files](https://github.com/electricbookworks/electric-book/pull/81)
 * Linux and Mac scripts fixed and updated
+* Javascript in Prince activated by default in scripts
 * Minor fixes and improvements (including nav buttons, TOC layout, default font, Prose config, gitignore, output scripts)
 
 ### 0.6.3
