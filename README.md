@@ -37,6 +37,8 @@ In **Jekyll 3.3.0**, auto-regeneration doesn't work due to [our geeky fascinatio
 * Add MathJax output in PDF
 * Assume/force use of format-specific image-sets
 * Far more powerful `figure` include (and related styling)
+* PDF export now conforms to major standards: X1-a for print-pdf, A-3b for screen-pdf.
+* Add ability to change the PDF profile and colour intent in Sass config.
 * Change Jekyll destination back to `_site_` (no longer non-standard `_html`)
 * More variables available from `include metadata`
 * Breadcrumb trail clickable, when destination files are defined in `meta.yml`'s web nav tree
